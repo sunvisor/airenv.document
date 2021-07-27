@@ -7,12 +7,19 @@ AirEnv
 - web サーバーにアクセスすると、最新の CO2 濃度や、濃度の推移が確認できる
 
 使用する機器
+----------
 
 - Raspberry Pi Zero W
 - CCS881 センサー搭載ボード
   - https://www.amazon.co.jp/gp/product/B09329T245/
+  
+回路
+----
+
+- [回路図と基盤レイアウト](circuit/circuit.md)
 
 リポジトリ
+----------
 
 - サーバー: 計測値を保存・取得する Web API 
   - https://github.com/sunvisor/airenv.server
@@ -20,6 +27,7 @@ AirEnv
   - https://github.com/sunvisor/airenv.device
 
 Raspberry PI の設定
+----------
 
 - [Raspberry PI のセットアップ](device/setup_pi.md)
 - [CCS811 が使えるようにする](device/ccs811.md)
