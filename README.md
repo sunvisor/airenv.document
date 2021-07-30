@@ -16,7 +16,7 @@ AirEnv
 回路
 ----
 
-- [回路図と基盤レイアウト](circuit/circuit.md)
+- [回路図と基板レイアウト](circuit/circuit.md)
 
 リポジトリ
 ----------
