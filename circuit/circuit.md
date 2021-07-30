@@ -7,7 +7,7 @@
 
 ![circuit diagram](images/airenv_circuit_diagram.png)
 
-基盤への実装
+基板への実装
 ==========
 
 サンハヤトの zoro 用ユニバーサルボード UB-RP103 に実装する
